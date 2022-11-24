@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xionse
-- 👀 I’m interested in Networking
+- 👀 I’m interested in Computer Networking
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me @Addax
