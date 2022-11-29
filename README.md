@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xionse
+- 👋 Hi, I’m @Xionse.
 - 👀 I’m interested in Computer Networking
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
