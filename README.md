@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xionse, a linux addict.
+- 👋 Hi, I’m @Xionse, a linux addict who loves open source.
 - 👀 I’m interested in Computer Networking.
 - 🌱 I’m currently learning **DevOps**.
 - 💞️ I’m looking to collaborate on DevOps.
