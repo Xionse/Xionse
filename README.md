@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xionse, a linux addict.
-- 👀 I’m interested in Computer Networking.
-- 🌱 I’m currently learning **DevOps**.
-- 💞️ I’m looking to collaborate on DevOps.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning working on Android Alchemists Apps.
+- 💞️ I’m looking to collolaborate on any Android Development Project.
 - 📫 How to reach me @Addax. 
 -  I love open source. ❤
 
