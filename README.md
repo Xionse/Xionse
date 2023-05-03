@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xionse, a linux addict.
+- 👋 Hi, I’m @Xionse, a linux and scala addict.
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning working on Android Alchemists Apps.
 - 💞️ I’m looking to collolaborate on any Android Development Project.
